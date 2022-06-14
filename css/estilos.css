@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 189, 169);
+}
+
+
+li>a{
+    color: rgb(231, 101, 101);
+}
+
+section{
+    background-color: cornsilk;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(97, 76, 48);
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(97, 76, 48);
+    text-decoration-line: underline;
+}
